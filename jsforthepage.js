@@ -4,7 +4,7 @@ function addOne(x) {
   return;
 }
 
-let init_coom = 10;
+let init_coom = 6;
 let coom = 20;
 let sexyhaha = true;
 function sex() {
