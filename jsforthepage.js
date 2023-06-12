@@ -4,8 +4,8 @@ function addOne(x) {
   return;
 }
 
-let init_coom = 6;
-let coom = 20;
+let init_coom = 10;
+let coom = init_coom;
 let sexyhaha = true;
 function sex() {
     const sex = document.getElementById('sex')
